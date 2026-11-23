@@ -1,4 +1,4 @@
-# TAVARDT Vibe Coding Security & AI Architecture Auditor (United Kingdom)
+# Vibe Coding Security & AI Architecture Auditor
 
 Corporate defensive architecture guide, credential leakage mitigation, and deterministic CLI auditing utility for applications built with AI development tools (Vibe Coding).
 
@@ -53,6 +53,6 @@ Defensive architecture and cybersecurity controls aligned with UK GDPR, Data Pro
 
 * **Live Hub:** [https://tavardt-uk.github.io/vibe-coding-security-scanner/](https://tavardt-uk.github.io/vibe-coding-security-scanner/)
 * **TAVARDT Portal:** [https://ag.tavardt.com/uk/](https://ag.tavardt.com/uk/)
-* **Cybersecurity Tools:** [https://tools.tavardt.com/uk/](https://tools.tavardt.com/uk/)
+* **Tools:** [https://tools.tavardt.com/uk/](https://tools.tavardt.com/uk/)
 
 &copy; 2026 TAVARDT. All rights reserved.
