@@ -61,3 +61,7 @@ Defensive architecture and cybersecurity controls aligned with UK GDPR, Data Pro
 * **Tools:** [Central de Ferramentas](https://tools.tavardt.com/uk/)
 
 &copy; 2026 TAVARDT. All rights reserved.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
