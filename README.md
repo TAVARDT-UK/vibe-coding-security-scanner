@@ -54,18 +54,17 @@ Defensive architecture and cybersecurity controls aligned with UK GDPR, Data Pro
 
 ***
 
-## Official Links & Resources
+## Useful Links
 
-* **Live Hub:** [https://tavardt-uk.github.io/vibe-coding-security-scanner/](https://tavardt-uk.github.io/vibe-coding-security-scanner/)
-* **TAVARDT Portal:** [Institutional Portal](https://ag.tavardt.com/uk/)
-* **Tools:** [Tools Hub](https://tools.tavardt.com/uk/)
+* **Corporate Portal:** https://ag.tavardt.com/uk/
+* **Diagnostic Suite:** https://tools.tavardt.com/uk/
+* **Technical Contact:** https://ag.tavardt.com/uk/contact/
 
 ***
 
 ## Governance and Sovereignty
 
 * **Sovereign Unit**: **TAVARDT United Kingdom** (`TAVARDT-UK`)
-* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
 * **Diagnostic Portal**: **TAVARDT UK Diagnostic Suite**
 * **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
 
