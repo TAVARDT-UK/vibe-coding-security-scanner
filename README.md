@@ -57,10 +57,8 @@ Defensive architecture and cybersecurity controls aligned with UK GDPR, Data Pro
 ## Official Links & Resources
 
 * **Live Hub:** [https://tavardt-uk.github.io/vibe-coding-security-scanner/](https://tavardt-uk.github.io/vibe-coding-security-scanner/)
-* **TAVARDT Portal:** [Portal Institucional](https://ag.tavardt.com/uk/)
-* **Tools:** [Central de Ferramentas](https://tools.tavardt.com/uk/)
-
-&copy; 2026 TAVARDT. All rights reserved.
+* **TAVARDT Portal:** [Institutional Portal](https://ag.tavardt.com/uk/)
+* **Tools:** [Tools Hub](https://tools.tavardt.com/uk/)
 
 ***
 
